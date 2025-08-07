@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/uni-pool/static/css/main.cd47d16b.css",
-    "main.js": "/uni-pool/static/js/main.461faff4.js",
+    "main.css": "/uni-pool/static/css/main.e3069990.css",
+    "main.js": "/uni-pool/static/js/main.f0567ace.js",
     "index.html": "/uni-pool/index.html",
-    "main.cd47d16b.css.map": "/uni-pool/static/css/main.cd47d16b.css.map",
-    "main.461faff4.js.map": "/uni-pool/static/js/main.461faff4.js.map"
+    "main.e3069990.css.map": "/uni-pool/static/css/main.e3069990.css.map",
+    "main.f0567ace.js.map": "/uni-pool/static/js/main.f0567ace.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd47d16b.css",
-    "static/js/main.461faff4.js"
+    "static/css/main.e3069990.css",
+    "static/js/main.f0567ace.js"
   ]
 }
